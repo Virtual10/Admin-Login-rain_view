@@ -24,9 +24,6 @@ px      68    160    252    344    436    528    620    712    */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	/* .main_column {width: 750px;} */
-	#admin_login_page .login_div .login_tile {
-		color: green;
-	}
 	#admin_login_page .login_div {
 		width: 45%;
 		min-height: 220px;
@@ -48,13 +45,10 @@ px      68    160    252    */
 
 @media only screen and (max-width: 767px) {
 	/* .main_column {width: 300px;} */
-	#admin_login_page .login_div .login_tile {
-		color: red;
-	}	
 	#admin_login_page .login_div {
-		width: 60%;
+		width: 65%;
 		min-height: 155px;
-		margin: -77.5px 0 0 -30%;
+		margin: -77.5px 0 0 -32.5%;
 		padding: 5px;
 	}
 	#admin_login_page .login_div .login_tile {
@@ -87,9 +81,6 @@ px      68    160    252    344    436    */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	/* .main_column {width: 450px;} */
-	#admin_login_page .login_div .login_tile {
-		color: blue;
-	}
 	#admin_login_page .login_div {
 		width: 55%;
 		min-height: 160px;
